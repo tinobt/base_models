@@ -1,4 +1,4 @@
-package modles
+package base_models
 
 // Repository
 type Issue struct {
